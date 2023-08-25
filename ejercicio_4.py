@@ -9,7 +9,8 @@ def main():
         compra[articulo] = float(input("precio: "))
         opcion = int(input("""
             opcion 0 (salir)
-            opcion 1 (comprar)"""))
+            opcion 1 (comprar)
+             """))
         
     
     print("lista de la compra")
